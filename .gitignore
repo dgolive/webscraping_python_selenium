@@ -4,6 +4,7 @@ ranking.json
 # ignore directory .vscode/ and venv/
 .vscode/
 venv/
+.venv
 
 # Ignore driver
 geckodriver.exe
